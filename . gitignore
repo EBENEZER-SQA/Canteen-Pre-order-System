@@ -1,0 +1,22 @@
+# Secrets (never commit these)
+.env
+config.local.php
+
+# Dependencies (teammates run: composer install)
+/vendor/
+node_modules/
+
+# Test and tool leftovers
+.phpunit.result.cache
+composer.phar
+
+# Logs and uploads
+*.log
+/logs/
+/uploads/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
