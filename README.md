@@ -6,7 +6,7 @@ A web app that lets students order food from the campus canteen, pay online, and
 | Name | GitHub | Current role |
 |------|--------|--------------|
 | EBENEZER SETIAM QUARSHIE AYEDE.| @EBENEZER-SQA | Project manager |
-| DERRICK NYAMEKYE | [@username] | Lead developer |
+| DERRICK NYAMEKYE | [@KUAMI DERRICK] | Lead developer |
 | SOLOBE TIMOTHY  | [@username] | Documentation Lead|
 | WILBERFORCE OKYERE | [@username] | Tester |
 | ALBERT ALFRED | [@username] | Assistant Tester |
